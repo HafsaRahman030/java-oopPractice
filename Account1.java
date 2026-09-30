@@ -58,4 +58,4 @@ public Account1 (String accountHolder,String type){
     public String getType() {
         return type;
     }
-}
+}  //end of class
