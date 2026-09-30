@@ -37,6 +37,6 @@ public class Account
     {
         return type;
     }
-}
+}  // end of class
  
 
